@@ -44,7 +44,8 @@ LOGORA is designed to simplify logo creation. Here’s how to use it:
 ## Screenshots
 Here’s a preview of LOGORA in action:
 
-(Replace with your actual screenshot URL)
+https://raw.githubusercontent.com/eurekabot123/LOGORA-Logo-Toolkit/main/screenshots/Screen%20Shot%202025-01-01%20at%205.13.21%20PM%20copy.png
+
 
 ---
 
@@ -75,8 +76,10 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 For inquiries or support, please reach out to us:
 
-Website: https://www.ailogogenerator.sh/
+LOGORA Website: https://www.ailogogenerator.sh/
+
 Email: zdy912544125@gmail.com
+
 GitHub: LOGORA Toolkit Repository
 
 
