@@ -75,13 +75,13 @@ Open a pull request on GitHub for review.
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
+
 For inquiries or support, please reach out to us:
 
-LOGORA Website: https://www.ailogogenerator.sh/
+- **Website**: [LOGORA](https://www.ailogogenerator.sh/)
+- **Email**: [zdy912544125@gmail.com](mailto:zdy912544125@gmail.com)
+- **GitHub**: [LOGORA Toolkit Repository](https://github.com/eurekabot123/LOGORA-Logo-Toolkit)
 
-Email: zdy912544125@gmail.com
-
-GitHub: LOGORA Toolkit Repository
 
 
 
