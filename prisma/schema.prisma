@@ -1,0 +1,18 @@
+generator client {
+    provider        = "prisma-client-js"
+    previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+    provider  = "postgresql"
+    url       = env("DATABASE_URL")
+    directUrl = env("POSTGRES_URL_NON_POOLING")
+}
+
+model LogoHistory {
+    id         String   @id @default(cuid())
+    prompt     String
+    imageUrl   String
+    templateId String
+    createdAt  DateTime @default(now())
+}
