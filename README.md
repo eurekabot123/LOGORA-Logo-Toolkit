@@ -1,15 +1,15 @@
-# LOGORA - AI Logo Generator Toolkit
+# LOGOMATE - AI Logo Generator Toolkit
 
-LOGORA is an AI-powered logo generator toolkit designed for small businesses, entrepreneurs, and creators. It enables users to create unique and professional logos tailored to their brand's identity effortlessly.
+LOGOMATE is an AI-powered logo generator toolkit designed for small businesses, entrepreneurs, and creators. It enables users to create unique and professional logos tailored to their brand's identity effortlessly.
 
 ---
 
 ## Features
 
-- **Industry-Specific Templates**: From cafes to tech startups, LOGORA offers a wide range of templates to suit various industries.
+- **Industry-Specific Templates**: From cafes to tech startups, LOGOMATE offers a wide range of templates to suit various industries.
 - **High-Resolution Downloads**: Get your logo in PNG and scalable SVG formats, perfect for print and digital use.
-- **AI-Driven Customization**: Simply input your brand name and tagline, and LOGORA generates a unique logo for you.
-- **User-Friendly Interface**: No design skills required – LOGORA’s AI does the hard work for you.
+- **AI-Driven Customization**: Simply input your brand name and tagline, and LOGORMATE generates a unique logo for you.
+- **User-Friendly Interface**: No design skills required – LOGOMATE’s AI does the hard work for you.
 
 ---
 
@@ -34,7 +34,7 @@ Open your browser and go to http://localhost:3000
 ---
 
 ## Usage
-LOGORA is designed to simplify logo creation. Here’s how to use it:
+LOGORMATE is designed to simplify logo creation. Here’s how to use it:
 
 1.Select a Template: Choose from industry-specific templates that match your brand's identity.
 2.Customize Your Logo: Input your business name, tagline, and select from a range of AI-generated design options.
@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For inquiries or support, please reach out to us:
 
-- **Website**: [LOGORA](https://www.ailogogenerator.sh/)
+- **Website**: [LOGOMATE](https://www.ailogogenerator.sh/)
 - **Email**: [zdy912544125@gmail.com](mailto:zdy912544125@gmail.com)
 - **GitHub**: [LOGORA Toolkit Repository](https://github.com/eurekabot123/LOGORA-Logo-Toolkit)
 
